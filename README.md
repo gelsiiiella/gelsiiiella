@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 <h3>🔷 My Github Stats</h3>
   <hr>
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gelsiiiella&theme=city_lights" alt="Repos Per Language">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gelsiiiella&theme=city_lights" alt="Most Commit Language">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gelsiiiella&theme=city_lights" alt="Stats">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gelsiiiella&theme=city_lights&utcOffset=8" alt="Productive Time">
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gelsiiiella&theme=city_lights" alt="Profile Details">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gelsiiiella&theme=blueberry">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gelsiiiella&theme=blueberry">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gelsiiiella&theme=blueberry">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gelsiiiella&theme=blueberry&utcOffset=8">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gelsiiiella&theme=blueberry">
 	<br><br>
 	<p><b>Keep the fire burning 🔥, keep coding!</b></p>
 </div>
