@@ -3,7 +3,7 @@
 	<h3>Aspiring Backend Developer </h3>
 </div>
 <div align="justify">
-  <p>When I say hi, you say hello. Hi, you can call me Gels. I'm a 19-year-old incoming 3rd-Year BS Computer Science student at the University of the East - Caloocan.</p>
+  <p>When I say hi, you say hello. Hi, you can call me Gels. I'm a 19-year-old incoming 3rd-Year BS Computer Science student.</p>
   <p>I'm into Backend Development, Cybersecurity, and Data Science. I started my <b><i>#100DaysofCodeChallenge</i></b> last January 2024. Joining that challenge makes me more accountable on my growth as an aspiring developer.
   </p>
 
