@@ -1,15 +1,12 @@
 <div align="center">
   <h2>Hi there 👋 I'm Angela Samboa</h2>
-	<h3>Aspiring Backend Developer </h3>
+	<h3>Aspiring Backend Developer</h3>
 </div>
 <div align="justify">
   <p>When I say hi, you say hello. Hi, you can call me Gels. I'm a 19-year-old incoming 3rd-Year BS Computer Science student.</p>
-  <p>I'm into Backend Development, Cybersecurity, and Data Science. I started my <b><i>#100DaysofCodeChallenge</i></b> last January 2024. Joining that challenge makes me more accountable on my growth as an aspiring developer.
+  <p>I'm into Backend Development, Cybersecurity, and Data Science. With that said, I'm interested working on some projects related to those field, including API integration. I started my <b><i>#100DaysofCodeChallenge</i></b> last January 2024. Joining that challenge makes me more accountable on my growth as an aspiring developer.
   </p>
 
-
- 👯 I’m looking to collaborate on any projects that utilize agile process model. As a student with other loads, I prefer working with less strict deadlines, allowing more flexibile and iterative development.
- <br>
  <br>
   📫 How to reach me: samboaangelag@gmail.com
 
@@ -33,7 +30,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,vscode,godot" />
-		<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,java,laravel,mysql,mongodb,nodejs,expressjs,react native" />
+		<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,streamlit,java,laravel,mysql,mongodb,nodejs,expressjs,react native" />
   </a>
 </p>
 <h3>🔷 My Github Stats</h3>
