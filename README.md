@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,vscode,godot" />
-		<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,streamlit,java,laravel,mysql,mongodb,nodejs,expressjs,react native" />
+		<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,java,laravel,mysql,mongodb,nodejs,expressjs,react native" />
   </a>
 </p>
 <h3>🔷 My Github Stats</h3>
