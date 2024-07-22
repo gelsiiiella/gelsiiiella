@@ -7,8 +7,7 @@
   <p>I'm into Backend Development, Cybersecurity, and Data Science. With that said, I'm interested working on some projects related to those field, including API integration. I started my <b><i>#100DaysofCodeChallenge</i></b> last January 2024. Joining that challenge makes me more accountable on my growth as an aspiring developer.
   </p>
 
- <br>
-  📫 How to reach me: samboaangelag@gmail.com
+
 
 <!--
 **gelsiiiella/gelsiiiella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
