@@ -36,10 +36,10 @@ Here are some ideas to get you started:
   <hr>
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gelsiiiella&theme=blueberry">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gelsiiiella&theme=blueberry">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gelsiiiella&theme=blueberry">
+<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gelsiiiella&theme=blueberry"> -->
+<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gelsiiiella&theme=blueberry"> -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gelsiiiella&theme=blueberry&utcOffset=8">
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gelsiiiella&theme=blueberry">
+<!-- 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gelsiiiella&theme=blueberry"> -->
 	<br><br>
 	<p><b>Keep the fire burning 🔥, keep coding!</b></p>
 </div>
