@@ -21,11 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<hr>
-<h3>✴️ Technologies I Use </h3>
-<p>These are the list of tech that I have experience with. I look forward for more exposure in mastering my current tech stacks. </p>
-
-	<p><b>Keep the fire burning 🔥, keep coding!</b></p>
+Keep the fire burning 🔥, keep coding!
 </div>
 
 
